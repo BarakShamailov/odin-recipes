@@ -1,7 +1,7 @@
-.body {
+.image{
     text-align: center;
-    
 }
+
 
 p{
     font-size: 20px;
@@ -12,21 +12,22 @@ p{
     font-size: 30px;
     text-decoration: underline;
     background-color: lightgray;
+    text-align: center;
 }
 
-.center-list {
-    display: inline-block;
-    text-align: left; 
-    margin: 0 auto;
-    padding: 0;
-    list-style-position: inside;
+.backbtn 
+{
+    background-color: lightgray;
+    padding: 5px;
+}
+
+.ul-items {
+
+   
     font-size: 20px;
 }
 
-ol.center-list {
-    padding-left: 20px; 
-}
-
-ul.center-list {
-    padding-left: 20px; 
+.instructions-text
+{
+    font-size: 20px;
 }
